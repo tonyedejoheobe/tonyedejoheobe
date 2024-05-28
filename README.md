@@ -8,7 +8,7 @@ Hi there 👋
 
 👀 I’m interested in the use of morden AI(Artifitial Inteligence) To create an effective, visual appealing mordern wbsite 
 
-🌱 I’m currently learning other programming languages like(python,c#,c++)
+🌱 I’m currently learning other programming languages like(python, c#, c++)
 
 <!---
 tonyedejoheobe/tonyedejoheobe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
